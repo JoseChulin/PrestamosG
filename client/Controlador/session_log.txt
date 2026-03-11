@@ -1,0 +1,2880 @@
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 8
+    [logged_in] => 1
+    [user_name] => Laura
+    [user_email] => laura@example.com
+    [user_phone] => 5556789012
+    [username] => laura505
+)
+Array
+(
+    [idUsuario] => 8
+    [logged_in] => 1
+    [user_name] => Laura
+    [user_email] => laura@example.com
+    [user_phone] => 5556789012
+    [username] => laura505
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 8
+    [logged_in] => 1
+    [user_name] => Laura
+    [user_email] => laura@example.com
+    [user_phone] => 5556789012
+    [username] => laura505
+)
+Array
+(
+    [idUsuario] => 8
+    [logged_in] => 1
+    [user_name] => Laura
+    [user_email] => laura@example.com
+    [user_phone] => 5556789012
+    [username] => laura505
+)
+Array
+(
+    [idUsuario] => 8
+    [logged_in] => 1
+    [user_name] => Laura
+    [user_email] => laura@example.com
+    [user_phone] => 5556789012
+    [username] => laura505
+)
+Array
+(
+    [idUsuario] => 9
+    [logged_in] => 1
+    [user_name] => Jorge
+    [user_email] => jorge@example.com
+    [user_phone] => 5557890123
+    [username] => jorge606
+)
+Array
+(
+    [idUsuario] => 9
+    [logged_in] => 1
+    [user_name] => Jorge
+    [user_email] => jorge@example.com
+    [user_phone] => 5557890123
+    [username] => jorge606
+)
+Array
+(
+    [idUsuario] => 9
+    [logged_in] => 1
+    [user_name] => Jorge
+    [user_email] => jorge@example.com
+    [user_phone] => 5557890123
+    [username] => jorge606
+)
+Array
+(
+    [idUsuario] => 9
+    [logged_in] => 1
+    [user_name] => Jorge
+    [user_email] => jorge@example.com
+    [user_phone] => 5557890123
+    [username] => jorge606
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 5
+    [logged_in] => 1
+    [user_name] => Luis
+    [user_email] => luis@example.com
+    [user_phone] => 5553456789
+    [username] => luis202
+)
+Array
+(
+    [idUsuario] => 5
+    [logged_in] => 1
+    [user_name] => Luis
+    [user_email] => luis@example.com
+    [user_phone] => 5553456789
+    [username] => luis202
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 7
+    [logged_in] => 1
+    [user_name] => Pedro
+    [user_email] => pedro2@example.com
+    [user_phone] => 5555678901
+    [username] => pedro404
+)
+Array
+(
+    [idUsuario] => 7
+    [logged_in] => 1
+    [user_name] => Pedro
+    [user_email] => pedro2@example.com
+    [user_phone] => 5555678901
+    [username] => pedro404
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseM
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 6
+    [logged_in] => 1
+    [user_name] => Sofía
+    [user_email] => sofia@example.com
+    [user_phone] => 5554567890
+    [username] => sofia303
+)
+Array
+(
+    [idUsuario] => 7
+    [logged_in] => 1
+    [user_name] => Pedro
+    [user_email] => pedro2@example.com
+    [user_phone] => 5555678901
+    [username] => pedro404
+)
+Array
+(
+    [idUsuario] => 7
+    [logged_in] => 1
+    [user_name] => Pedro
+    [user_email] => pedro2@example.com
+    [user_phone] => 5555678901
+    [username] => pedro404
+)
+Array
+(
+    [idUsuario] => 7
+    [logged_in] => 1
+    [user_name] => Pedro
+    [user_email] => pedro2@example.com
+    [user_phone] => 5555678901
+    [username] => pedro404
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)
+Array
+(
+    [idUsuario] => 14
+    [logged_in] => 1
+    [user_name] => Jose Alexander
+    [user_email] => Cliente@gmail.com
+    [user_phone] => 9831231231
+    [username] => JoseMartinez
+)

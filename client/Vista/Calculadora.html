@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Préstamos</title>
+    <link rel="stylesheet" href="Styles/Calculadora.css">
+</head>
+<body>
+    <!-- Spinner de carga -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>Cargando planes...</p>
+    </div>
+
+    <!-- Mensaje de error -->
+    <div id="error-message" class="error-message"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <img src="Img/LogoG2.png" alt="Logo">
+            </div>
+            <div class="header-title">
+                <h1>Calculadora de Préstamos</h1>
+                <p>Simula tu préstamo personalizado y conoce nuestros planes disponibles</p>
+            </div>
+            <div class="header-actions">
+                <button class="login-btn" onclick="redirectToLogin()">
+                    <i class="fas fa-sign-in-alt"></i>
+                    Iniciar Sesión
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar con planes fijos -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h3><i class="fas fa-star"></i> Planes Disponibles</h3>
+                    <p>Planes preestablecidos con condiciones especiales</p>
+                </div>
+                <div class="plans-container" id="plansContainer">
+                    <div class="loading-plans">
+                        <i class="fas fa-spinner fa-spin"></i>
+                        <p>Cargando planes...</p>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Content Area -->
+            <main class="content">
+                <!-- Calculadora independiente -->
+                <section class="calculator-section">
+                    <div class="calculator-header">
+                        <h2><i class="fas fa-calculator"></i> Calculadora Personalizada</h2>
+                        <p>Simula tu préstamo con diferentes modalidades de interés</p>
+                    </div>
+
+                    <div class="calculator-form">
+                        <!-- Monto -->
+                        <div class="form-group">
+                            <label for="monto">
+                                <i class="fas fa-dollar-sign"></i>
+                                Monto a solicitar
+                            </label>
+                            <div class="range-container">
+                                <input type="range" id="monto" min="1000" max="100000" step="1000" value="10000">
+                                <div class="range-labels">
+                                    <span>$1,000</span>
+                                    <span>$100,000</span>
+                                </div>
+                            </div>
+                            <div class="value-display" id="monto-valor">$10,000.00</div>
+                        </div>
+
+                        <!-- Tipo de préstamo -->
+                        <div class="form-group">
+                            <label for="tipo-prestamo">
+                                <i class="fas fa-list"></i>
+                                Modalidad de préstamo
+                            </label>
+                            <select id="tipo-prestamo">
+                                <option value="personal">Personal (12% anual)</option>
+                                <option value="automovil">Automóvil (8% anual)</option>
+                                <option value="hipotecario">Hipotecario (6% anual)</option>
+                            </select>
+                            <div class="modalidad-info" id="modalidadInfo">
+                                <p><strong>Personal:</strong> Ideal para gastos personales, vacaciones, emergencias médicas, etc.</p>
+                            </div>
+                        </div>
+
+                        <!-- Período -->
+                        <div class="form-group">
+                            <label for="periodo">
+                                <i class="fas fa-calendar-alt"></i>
+                                Período de pago (meses)
+                            </label>
+                            <div class="range-container">
+                                <input type="range" id="periodo" min="6" max="60" step="1" value="12">
+                                <div class="range-labels">
+                                    <span>6 meses</span>
+                                    <span>60 meses</span>
+                                </div>
+                            </div>
+                            <div class="value-display" id="periodo-valor">12 meses</div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Resultados -->
+                <section class="results-section">
+                    <div class="results-header">
+                        <h3><i class="fas fa-chart-bar"></i> Resumen de tu Simulación</h3>
+                    </div>
+
+                    <div class="results-grid">
+                        <div class="result-card">
+                            <div class="result-icon">
+                                <i class="fas fa-money-bill-wave"></i>
+                            </div>
+                            <div class="result-content">
+                                <span class="result-label">Monto solicitado</span>
+                                <span class="result-value" id="prestado">$10,000.00</span>
+                            </div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="result-icon">
+                                <i class="fas fa-percentage"></i>
+                            </div>
+                            <div class="result-content">
+                                <span class="result-label">Tasa de interés anual</span>
+                                <span class="result-value" id="tasa-interes">12%</span>
+                            </div>
+                        </div>
+
+                        <div class="result-card highlight">
+                            <div class="result-icon">
+                                <i class="fas fa-calendar-check"></i>
+                            </div>
+                            <div class="result-content">
+                                <span class="result-label">Pago mensual</span>
+                                <span class="result-value" id="pago-mensual">$933.33</span>
+                            </div>
+                        </div>
+
+                        <div class="result-card">
+                            <div class="result-icon">
+                                <i class="fas fa-chart-line"></i>
+                            </div>
+                            <div class="result-content">
+                                <span class="result-label">Total a pagar</span>
+                                <span class="result-value" id="total-pagar">$11,200.00</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="action-buttons">
+                        <button class="btn btn-primary" onclick="solicitarPrestamoPersonalizado()">
+                            <i class="fas fa-paper-plane"></i>
+                            Solicitar Préstamo Personalizado
+                        </button>
+                        <button class="btn btn-secondary" onclick="resetCalculator()">
+                            <i class="fas fa-redo"></i>
+                            Reiniciar Calculadora
+                        </button>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="Java/Calculadora.js"></script>
+</body>
+</html>

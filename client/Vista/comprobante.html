@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comprobante de Pago</title>
+    <link rel="stylesheet" href="Styles/comprobante.css">
+</head>
+<body>
+    <div class="container">
+        <div class="receipt-container" id="receiptContainer">
+            <div class="receipt-header">
+                <div class="logo">
+                    <img src="Img/LogoG2.png" alt="Logo">
+                </div>
+                <h1>Comprobante de Pago</h1>
+                <div class="receipt-number">
+                    <span>Comprobante #<span id="receiptNumber">-</span></span>
+                </div>
+            </div>
+            
+            <div class="receipt-body">
+                <div class="payment-info">
+                    <div class="info-row">
+                        <span class="label">Fecha de Pago:</span>
+                        <span class="value" id="paymentDate">-</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="label">Referencia:</span>
+                        <span class="value" id="paymentReference">-</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="label">ID de Transacción:</span>
+                        <span class="value" id="transactionId">-</span>
+                    </div>
+                </div>
+                
+                <div class="customer-info">
+                    <h3>Información del Cliente</h3>
+                    <div class="info-row">
+                        <span class="label">Nombre:</span>
+                        <span class="value" id="customerName">-</span>
+                    </div>
+                    <div class="info-row">
+                        <span class="label">ID de Préstamo:</span>
+                        <span class="value" id="loanId">-</span>
+                    </div>
+                </div>
+                
+                <div class="payment-details">
+                    <h3>Detalles del Pago</h3>
+                    <div class="amount-section">
+                        <div class="info-row">
+                            <span class="label">Monto Pagado:</span>
+                            <span class="value amount" id="paidAmount">$0.00</span>
+                        </div>
+                        <div class="info-row">
+                            <span class="label">Monto de la Cuota:</span>
+                            <span class="value" id="installmentAmount">$0.00</span>
+                        </div>
+                        <div class="info-row" id="excessRow" style="display: none;">
+                            <span class="label">Exceso Aplicado:</span>
+                            <span class="value excess" id="excessAmount">$0.00</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="status-section">
+                    <div class="status-badge">
+                        <i class="fas fa-check-circle"></i>
+                        <span>PAGO PROCESADO</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="receipt-footer">
+                <p>Este comprobante es válido como prueba de pago.</p>
+                <p>Fecha de emisión: <span id="issueDate"></span></p>
+            </div>
+        </div>
+        
+        <div class="actions">
+            <button class="btn btn-print" onclick="printReceipt()">
+                <i class="fas fa-print"></i> Imprimir
+            </button>
+            <button class="btn btn-download" onclick="downloadPDF()">
+                <i class="fas fa-download"></i> Descargar PDF
+            </button>
+            <a href="PanelUsuario.html" class="btn btn-back">
+                <i class="fas fa-arrow-left"></i> Volver al Panel
+            </a>
+        </div>
+    </div>
+    
+    <script src="Java/comprobante.js"></script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cambio de Contraseña</title>
+  <link rel="stylesheet" href="Styles/cambioContraseña.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="left-panel">
+      <img src="Img/LogoG.png" alt="Cambio de contraseña" class="login-image" />
+    </div>
+
+    <div class="right-panel">
+      <button class="go-back" onclick="window.history.back();">← Regresar</button>
+      <h2>Restablecer Contraseña</h2>
+      <p>Ingresa tus datos para cambiar tu contraseña</p>
+      
+      <form class="login-form" id="passwordForm">
+        <label>Nombre de Usuario</label>
+        <input type="text" name="username" placeholder="Ingresa tu nombre de usuario" required />
+
+        <label>Correo Electrónico</label>
+        <input type="email" name="email" placeholder="Ingresa tu correo registrado" required />
+
+        <label>Nueva Contraseña</label>
+        <div class="password-wrapper">
+          <input type="password" name="new_password" id="newPassword" placeholder="Mínimo 8 caracteres" required />
+          <i class="fas fa-eye" id="toggleNewPassword"></i>
+        </div>
+
+        <label>Confirmar Nueva Contraseña</label>
+        <div class="password-wrapper">
+          <input type="password" name="confirm_password" id="confirmPassword" placeholder="Repite tu contraseña" required />
+          <i class="fas fa-eye" id="toggleConfirmPassword"></i>
+        </div>
+
+        <button type="submit" class="login-btn">Cambiar Contraseña</button>
+
+        <div id="error-message" class="error-message" style="display: none;"></div>
+        <div id="success-message" class="success-message" style="display: none;"></div>
+      </form>
+
+      <p class="signup">¿Recordaste tu contraseña? <a href="Login.html">Iniciar Sesión</a></p>
+    </div>
+  </div>
+
+  <script src="Java/cambioContraseña.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Registro de Usuario</title>
+  <link rel="stylesheet" href="Styles/stylesSignup.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <div class="left-panel">
+      <img src="Img/LogoG.png" alt="Ilustración de registro" class="login-image" />
+    </div>
+
+    <div class="right-panel">
+      <button class="go-back" onclick="history.back()">← Regresar</button>
+      <h2>Crear Cuenta</h2>
+      <p>Complete el formulario para registrarse</p>
+      
+      <form class="login-form" id="signupForm">
+        <label>Nombre(s)</label>
+        <input type="text" name="nombre" placeholder="Ingrese su(s) nombre(s)" required />
+
+        <label>Apellidos</label>
+        <div class="apellidos-container">
+        <input type="text" name="apellidoP" placeholder="Apellido paterno" required />
+        <input type="text" name="apellidoM" placeholder="Apellido materno" required />
+        </div>
+
+        <label>Nombre de Usuario</label>
+        <input type="text" name="username" placeholder="Elija un nombre de usuario" required />
+
+        <label>Correo Electrónico</label>
+        <input type="email" name="email" placeholder="Ingrese su correo electrónico" required />
+
+        <label>Teléfono</label>
+        <input type="tel" name="phone" placeholder="Ingrese su número telefónico" required />
+
+        <label>Contraseña</label>
+        <div class="password-wrapper">
+          <input type="password" name="password" id="password" placeholder="Cree una contraseña" required />
+          <i class="fas fa-eye" id="togglePassword"></i>
+        </div>
+
+        <label>Confirmar Contraseña</label>
+        <div class="password-wrapper">
+          <input type="password" name="confirm_password" id="confirm_password" placeholder="Confirme su contraseña" required />
+          <i class="fas fa-eye" id="toggleConfirmPassword"></i>
+        </div>
+
+        <button type="submit" class="login-btn">Registrarse</button>
+
+        <div id="error-message" class="error-message" style="display: none;"></div>
+      </form>
+
+      <p class="signup">
+        ¿Ya tienes una cuenta? <a href="Login.html">Iniciar Sesión</a>
+      </p>
+    </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="Java/signup.js"></script>
+</body>
+</html>

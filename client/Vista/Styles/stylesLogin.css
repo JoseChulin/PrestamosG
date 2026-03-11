@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .left-panel {
+    flex: 1;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .image-placeholder {
+    width: 200px;
+    height: 150px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    position: relative;
+  }
+  
+  .image-placeholder .circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    position: absolute;
+    top: 20px;
+    left: calc(50% - 15px);
+  }
+  
+  .image-placeholder .waves {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+    width: 180px;
+    height: 80px;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  
+  .right-panel {
+    flex: 1;
+    background-color: #d3d3d3;
+    padding: 40px;
+    box-sizing: border-box;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+  }
+  
+  .go-back {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .login-form label {
+    margin: 10px 0 5px;
+  }
+  
+  .login-form input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .forgot-password {
+    font-size: 12px;
+    text-align: right;
+    margin-bottom: 20px;
+    display: block;
+    color: #222;
+    text-decoration: none;
+  }
+  
+  .forgot-password:hover {
+    text-decoration: underline;
+  }
+  
+  .login-btn {
+    background-color: #222;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .login-btn:hover {
+    background-color: #444;
+  }
+  
+  .divider {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+    color: #555;
+  }
+  
+  .divider::before,
+  .divider::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    width: 40%;
+    height: 1px;
+    background: #888;
+  }
+  
+  .divider::before {
+    left: 0;
+  }
+  
+  .divider::after {
+    right: 0;
+  }
+  
+  .google-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 999px;
+    padding: 10px 20px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s;
+  }
+  
+  .google-btn:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .google-btn img {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .signup {
+    margin-top: 20px;
+    text-align: center;
+    color: #555;
+  }
+  
+  .signup a {
+    color: #222;
+    text-decoration: none;
+  }
+  
+  .signup a:hover {
+    text-decoration: underline;
+  }
+  
+  .login-image {
+    max-width: 80%;
+    max-height: 80%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  /* Estilos para el mensaje de error */
+  .error-message {
+    color: #dc3545;
+    margin: 10px 0;
+    padding: 10px;
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    display: none;
+    font-size: 14px;
+    text-align: center;
+  }
+  
+  /* Contenedor de contraseña */
+  .password-wrapper {
+    position: relative;
+    margin-bottom: 10px;
+  }
+  
+  .password-wrapper input {
+    padding-right: 35px;
+  }
+  
+  .password-wrapper .fa-eye {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #666;
+    padding: 5px;
+  }
+  
+  .password-wrapper .fa-eye:hover {
+    color: #222;
+  }
+  
+  /* Efecto para el ícono de ojo cuando se muestra la contraseña */
+  .password-wrapper .fa-eye-slash {
+    color: #222;
+  }
+  
+  /* Estilo para cuando hay error en el input */
+  .input-error {
+    border-color: #dc3545 !important;
+    background-color: #fff5f5;
+  }

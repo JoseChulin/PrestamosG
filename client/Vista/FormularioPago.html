@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Realizar Pago</title>
+  <link rel="stylesheet" href="Styles/FormularioPago.css">
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <img src="Img/LogoG3.png" alt="Logo">
+    </div>
+    
+    <div class="header">
+      <h1>Realizar Pago</h1>
+      <p>Complete los detalles para procesar su pago</p>
+    </div>
+    
+    <div class="message error" id="errorMessage"></div>
+    <div class="message success" id="successMessage"></div>
+    
+    <div class="loan-details">
+      <h2>Detalles del Préstamo</h2>
+      <div class="details-grid">
+        <div class="detail-item">
+          <span class="label">Cliente:</span>
+          <span class="value" id="clientName">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Préstamo ID:</span>
+          <span class="value" id="loanId">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Plan:</span>
+          <span class="value" id="planName">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Tasa de Interés:</span>
+          <span class="value" id="interestRate">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Monto Total:</span>
+          <span class="value" id="totalAmount">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Plazo:</span>
+          <span class="value" id="term">Cargando...</span>
+        </div>
+      </div>
+    </div>
+    
+    <div class="payment-details">
+      <h2>Detalles del Pago</h2>
+      <div class="details-grid">
+        <div class="detail-item">
+          <span class="label">Pago ID:</span>
+          <span class="value" id="paymentId">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Número de Cuota:</span>
+          <span class="value" id="paymentNumber">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Fecha de Vencimiento:</span>
+          <span class="value" id="dueDate">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Monto a Pagar:</span>
+          <span class="value" id="paymentAmount">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Estado:</span>
+          <span class="value" id="paymentStatus">Cargando...</span>
+        </div>
+        <div class="detail-item">
+          <span class="label">Pagos Restantes:</span>
+          <span class="value" id="remainingPayments">Cargando...</span>
+        </div>
+      </div>
+    </div>
+    
+    <form id="paymentForm">
+      <input type="hidden" id="hiddenLoanId" name="loanId">
+      <input type="hidden" id="hiddenPaymentId" name="paymentId">
+      <input type="hidden" id="hiddenMinAmount" name="minAmount">
+      <input type="hidden" id="hiddenIsLastPayment" name="isLastPayment">
+      
+      <div class="form-group">
+        <label for="paymentAmountInput">Monto a Pagar ($):</label>
+        <input type="number" id="paymentAmountInput" name="amount" step="0.01" required>
+        <div class="hint">El monto no puede ser menor al monto requerido</div>
+      </div>
+      
+      <div class="form-group">
+        <label for="paymentMethod">Método de Pago:</label>
+        <select id="paymentMethod" name="paymentMethod" required>
+          <option value="">Seleccione un método</option>
+          <option value="transferencia">Transferencia Bancaria</option>
+          <option value="efectivo">Efectivo</option>
+          <option value="tarjeta">Tarjeta de Crédito/Débito</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="paymentNotes">Notas (opcional):</label>
+        <textarea id="paymentNotes" name="notes" rows="3"></textarea>
+      </div>
+      
+      <div class="buttons">
+        <a href="PanelUsuario.html" class="btn btn-secondary">Cancelar</a>
+        <button type="submit" class="btn btn-primary">Procesar Pago</button>
+      </div>
+    </form>
+  </div>
+  
+  <!-- Modal para el comprobante de pago -->
+  <div class="modal" id="receiptModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Comprobante de Pago</h2>
+        <span class="close-modal">&times;</span>
+      </div>
+      <div class="modal-body" id="receiptContent">
+        <!-- El contenido del comprobante se generará dinámicamente -->
+      </div>
+      <div class="modal-footer">
+        <button id="printReceiptBtn" class="btn btn-primary">
+          <i class="fas fa-print"></i> Imprimir
+        </button>
+        <button id="closeReceiptBtn" class="btn btn-secondary">Cerrar</button>
+      </div>
+    </div>
+  </div>
+  
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+  </div>
+  
+  <script src="Java/FormularioPago.js"></script>
+</body>
+</html>

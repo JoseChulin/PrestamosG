@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dudas y Notificaciones - Sistema de Pagos</title>
+    <link rel="stylesheet" href="Styles/Dudas.css">
+</head>
+<body>
+    <!-- Spinner de carga -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>Cargando...</p>
+    </div>
+
+    <!-- Mensaje de error/éxito -->
+    <div id="message" class="message"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <img src="Img/LogoG2.png" alt="Logo">
+            </div>
+            <div class="header-title">
+                <h1>Dudas y Notificaciones</h1>
+                <p>Comunícate con tu prestamista y revisa tus notificaciones</p>
+            </div>
+            <div class="header-actions">
+                <button class="back-btn" onclick="redirectToPanel()">
+                    <span class="icon-arrow-left"></span>
+                    Volver al Panel
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar con notificaciones -->
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h3><span class="icon-bell"></span> Notificaciones</h3>
+                    <div class="notification-controls">
+                        <button class="refresh-btn" id="refreshNotifications">
+                            <span class="icon-refresh"></span>
+                        </button>
+                        <button class="mark-all-read-btn" id="markAllRead">
+                            <span class="icon-check-double"></span>
+                        </button>
+                    </div>
+                </div>
+                <div class="notifications-container" id="notificationsContainer">
+                    <div class="loading-notifications">
+                        <span class="icon-spinner spinning"></span>
+                        <p>Cargando notificaciones...</p>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Chat Area -->
+            <main class="chat-area">
+                <!-- Chat Header -->
+                <div class="chat-header">
+                    <div class="lender-info" id="lenderInfo">
+                        <div class="lender-avatar">
+                            <span class="icon-user-tie"></span>
+                        </div>
+                        <div class="lender-details">
+                            <h3 id="lenderName">Cargando prestamista...</h3>
+                            <p id="lenderStatus">En línea</p>
+                        </div>
+                    </div>
+                    <div class="chat-actions">
+                        <button class="refresh-chat-btn" id="refreshChat">
+                            <span class="icon-refresh"></span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Chat Messages -->
+                <div class="chat-messages" id="chatMessages">
+                    <div class="loading-chat">
+                        <span class="icon-spinner spinning"></span>
+                        <p>Cargando conversación...</p>
+                    </div>
+                </div>
+
+                <!-- Chat Input -->
+                <div class="chat-input-container">
+                    <form class="chat-form" id="chatForm">
+                        <div class="input-group">
+                            <textarea 
+                                id="messageInput" 
+                                placeholder="Escribe tu duda aquí..." 
+                                rows="2"
+                                maxlength="200"
+                                required
+                            ></textarea>
+                            <div class="input-actions">
+                                <span class="char-counter" id="charCounter">0/200</span>
+                                <button type="submit" class="send-btn" id="sendBtn">
+                                    <span class="icon-send"></span>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="Java/Dudas.js"></script>
+</body>
+</html>

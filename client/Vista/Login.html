@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Iniciar Sesión</title>
+  <link rel="stylesheet" href="Styles/stylesLogin.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <div class="left-panel">
+      <img src="Img/LogoG.png" alt="Ilustración de inicio de sesión" class="login-image" />
+    </div>
+
+    <div class="right-panel">
+      <button class="go-back" onclick="location.href='Index.html'">← Regresar</button>
+      <h2>¡Bienvenido!</h2>
+      <p>Por favor ingresa a tu cuenta.</p>
+      
+      <form class="login-form" id="loginForm">
+        <label>Correo Electrónico</label>
+        <input type="email" name="email" placeholder="Ingresa tu correo electrónico" required />
+
+        <label>Contraseña</label>
+        <div class="password-wrapper">
+          <input type="password" name="password" id="password" placeholder="Ingresa tu contraña" required />
+          <i class="fas fa-eye" id="togglePassword"></i>
+        </div>
+
+        <a href="CambioContraseña.html" class="forgot-password">¿Olvidaste tu contraseña?</a>
+        <button type="submit" class="login-btn">Iniciar Sesión</button>
+
+        <div id="error-message" class="error-message" style="display: none;"></div>
+      </form>
+
+      <p class="signup">¿No tienes una cuenta? <a href="Signup.html">Regístrate</a></p>
+    </div>
+  </div>
+
+  <!-- JavaScript -->
+  <script src="Java/loginUsuario.js"></script>
+</body>
+</html>

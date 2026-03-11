@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulario de Cuenta Bancaria</title>
+  <link rel="stylesheet" href="Styles/FormularioCuenta.css">
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <img src="Img/LogoG2.png" alt="Logo">
+    </div>
+    
+    <div class="header">
+      <h1>Agregar Cuenta Bancaria</h1>
+      <p>Ingresa los datos de tu cuenta bancaria para recibir pagos</p>
+    </div>
+    
+    <div class="message error" id="errorMessage"></div>
+    <div class="message success" id="successMessage"></div>
+    
+    <div class="card-preview">
+      <div class="card-number" id="previewNumber">**** **** **** ****</div>
+      <div class="card-details">
+        <div>
+          <div class="label">TITULAR</div>
+          <div class="card-holder" id="previewName">NOMBRE DEL TITULAR</div>
+        </div>
+        <div>
+          <div class="label">BANCO</div>
+          <div class="card-bank" id="previewBank">BANCO</div>
+        </div>
+      </div>
+    </div>
+    
+    <form id="accountForm">
+      <div class="form-group">
+        <label for="bankName">Banco</label>
+        <select id="bankName" name="bankName" required>
+          <option value="">Seleccione un banco</option>
+          <option value="BBVA">BBVA</option>
+          <option value="Santander">Santander</option>
+          <option value="Banamex">Banamex</option>
+          <option value="HSBC">HSBC</option>
+          <option value="Banorte">Banorte</option>
+          <option value="Otro">Otro</option>
+        </select>
+      </div>
+      
+      <div class="form-group">
+        <label for="accountNumber">Número de Cuenta</label>
+        <input type="text" id="accountNumber" name="accountNumber" 
+               pattern="[0-9]{16,20}" title="Ingrese 16-20 dígitos" required>
+        <div class="hint">Ingresa entre 16 y 20 dígitos sin espacios ni guiones</div>
+      </div>
+      
+      <div class="form-group">
+        <label for="accountHolder">Nombre del Titular</label>
+        <input type="text" id="accountHolder" name="accountHolder" required>
+      </div>
+      
+      <div class="buttons">
+        <a href="PanelUsuario.html" class="btn btn-secondary">Cancelar</a>
+        <button type="submit" class="btn btn-primary">Guardar Cuenta</button>
+      </div>
+    </form>
+  </div>
+  
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+  </div>
+  
+  <script src="Java/FormularioCuenta.js"></script>
+</body>
+</html>

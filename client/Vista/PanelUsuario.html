@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Usuario</title>
+    <link rel="stylesheet" href="Styles/PanelUsuario.css">
+</head>
+<body>
+    <!-- Spinner de carga -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>Cargando...</p>
+    </div>
+
+    <!-- Mensaje de error -->
+    <div id="error-message" class="error-message"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <img src="Img/LogoG2.png" alt="Logo">
+            </div>
+            <div class="user-info">
+                <div class="user-dropdown" id="userDropdown">
+                    <div class="user-avatar" id="userAvatar">U</div>
+                    <span id="usernameDisplay">Usuario</span>
+                    <i class="fas fa-chevron-down"></i>
+                    <div class="dropdown-content" id="dropdownContent">
+                        <a href="#" id="logoutBtn">
+                            <i class="fas fa-sign-out-alt"></i>
+                            Cerrar Sesión
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Sidebar -->
+            <aside class="sidebar">
+                <nav class="nav-menu">
+                    <div class="menu-item active" data-section="dashboard">
+                        <i class="fas fa-home"></i>
+                        <span>Subir documentos</span>
+                    </div>
+                    <div class="menu-item" data-section="payments">
+                        <i class="fas fa-credit-card"></i>
+                        <span>Solicitar prestamo</span>
+                    </div>
+                    <div class="menu-item" data-section="history">
+                        <i class="fas fa-history"></i>
+                        <span>Dudas</span>
+                    </div>
+                    <div class="menu-item" data-section="profile">
+                        <i class="fas fa-user"></i>
+                        <span>Perfil</span>
+                    </div>
+                </nav>
+            </aside>
+
+            <!-- Content Area -->
+            <main class="content">
+                <!-- Dashboard Section -->
+                <section class="dashboard-section">
+                    <!-- Payment Card -->
+                    <div class="payment-card">
+                        <div class="card-header">
+                            <h3>Próximo Pago</h3>
+                            <button class="payment-btn">Realizar Pago</button>
+                        </div>
+                        <div class="card-content">
+                            <div class="payment-info">
+                                <div class="payment-date">
+                                    <span class="label">Fecha de vencimiento:</span>
+                                    <span class="value" id="nextPaymentDate">Cargando...</span>
+                                </div>
+                                <div class="payment-amount">
+                                    <span class="label">Monto:</span>
+                                    <span class="value" id="paymentAmount">Cargando...</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Bank Card -->
+                    <div class="bank-card">
+                        <div class="card-header">
+                            <h3>Cuenta Bancaria</h3>
+                            <button class="add-card-btn" id="addCardBtn">
+                                <i class="fas fa-plus"></i>
+                                Agregar Cuenta
+                            </button>
+                        </div>
+                        <div class="card-visual">
+                            <div class="card-number" id="cardNumber">**** **** **** ****</div>
+                            <div class="card-details">
+                                <div class="card-name" id="cardName">NOMBRE DEL TITULAR</div>
+                                <div class="card-expiry" id="cardExpiry">MM/AA</div>
+                            </div>
+                            <div class="card-bank" id="bankName">BANCO</div>
+                        </div>
+                    </div>
+
+                    <!-- History Section -->
+                    <div class="history-section">
+                        <div class="section-header">
+                            <h3>Historial de Transacciones</h3>
+                            <div class="filter-buttons">
+                                <button class="filter-btn active" data-filter="all">Todos</button>
+                                <button class="filter-btn" data-filter="weekly">Semanal</button>
+                                <button class="filter-btn" data-filter="monthly">Mensual</button>
+                            </div>
+                        </div>
+                        <div class="table-container">
+                            <table id="historyTable">
+                                <thead>
+                                    <tr>
+                                        <th>ID Pago</th>
+                                        <th>Descripción</th>
+                                        <th>Fecha</th>
+                                        <th>Monto</th>
+                                        <th>Estado</th>
+                                        <th>Acciones</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td colspan="6" class="no-data">Cargando historial...</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <script src="Java/PanelUsuario.js"></script>
+</body>
+</html>

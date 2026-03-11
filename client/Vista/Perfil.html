@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Perfil - Sistema de Pagos</title>
+    <link rel="stylesheet" href="Styles/Perfil.css">
+</head>
+<body>
+    <!-- Spinner de carga -->
+    <div id="loading-spinner" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>Cargando perfil...</p>
+    </div>
+
+    <!-- Mensaje de error/éxito -->
+    <div id="message" class="message"></div>
+
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <img src="Img/LogoG2.png" alt="Logo">
+            </div>
+            <div class="header-title">
+                <h1>Mi Perfil</h1>
+                <p>Gestiona tu información personal y de cuenta</p>
+            </div>
+            <div class="header-actions">
+                <button class="back-btn" onclick="redirectToPanel()">
+                    <i class="fas fa-arrow-left"></i>
+                    Volver al Panel
+                </button>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Profile Card -->
+            <div class="profile-card">
+                <div class="profile-header">
+                    <div class="profile-avatar" id="profileAvatar">
+                        <i class="fas fa-user"></i>
+                    </div>
+                    <div class="profile-info">
+                        <h2 id="profileName">Cargando...</h2>
+                        <p id="profileEmail">Cargando...</p>
+                        <span class="profile-badge">Usuario Activo</span>
+                    </div>
+                    <div class="profile-actions">
+                        <button class="btn btn-primary" id="editBtn">
+                            <i class="fas fa-edit"></i>
+                            Editar Perfil
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Profile Form -->
+            <div class="form-container">
+                <form id="profileForm" class="profile-form">
+                    <!-- Información Personal -->
+                    <div class="form-section">
+                        <div class="section-header">
+                            <h3><i class="fas fa-user"></i> Información Personal</h3>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="nombreCliente">
+                                    <i class="fas fa-user"></i>
+                                    Nombre
+                                </label>
+                                <input type="text" id="nombreCliente" name="nombreCliente" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="apellidoP">
+                                    <i class="fas fa-user"></i>
+                                    Apellido Paterno
+                                </label>
+                                <input type="text" id="apellidoP" name="apellidoP" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="apellidoM">
+                                    <i class="fas fa-user"></i>
+                                    Apellido Materno
+                                </label>
+                                <input type="text" id="apellidoM" name="apellidoM" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="telefono">
+                                    <i class="fas fa-phone"></i>
+                                    Teléfono
+                                </label>
+                                <input type="tel" id="telefono" name="telefono" readonly>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Información de Cuenta -->
+                    <div class="form-section">
+                        <div class="section-header">
+                            <h3><i class="fas fa-key"></i> Información de Cuenta</h3>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="nombreUsuario">
+                                    <i class="fas fa-at"></i>
+                                    Nombre de Usuario
+                                </label>
+                                <input type="text" id="nombreUsuario" name="nombreUsuario" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="correo">
+                                    <i class="fas fa-envelope"></i>
+                                    Correo Electrónico
+                                </label>
+                                <input type="email" id="correo" name="correo" readonly>
+                            </div>
+                            <div class="form-group">
+                                <label for="fechaRegistro">
+                                    <i class="fas fa-calendar"></i>
+                                    Fecha de Registro
+                                </label>
+                                <input type="text" id="fechaRegistro" name="fechaRegistro" readonly>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Cambio de Contraseña -->
+                    <div class="form-section" id="passwordSection" style="display: none;">
+                        <div class="section-header">
+                            <h3><i class="fas fa-lock"></i> Cambiar Contraseña</h3>
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="currentPassword">
+                                    <i class="fas fa-lock"></i>
+                                    Contraseña Actual
+                                </label>
+                                <div class="password-input">
+                                    <input type="password" id="currentPassword" name="currentPassword">
+                                    <button type="button" class="toggle-password" data-target="currentPassword">
+                                        <i class="fas fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="newPassword">
+                                    <i class="fas fa-key"></i>
+                                    Nueva Contraseña
+                                </label>
+                                <div class="password-input">
+                                    <input type="password" id="newPassword" name="newPassword">
+                                    <button type="button" class="toggle-password" data-target="newPassword">
+                                        <i class="fas fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="confirmPassword">
+                                    <i class="fas fa-check"></i>
+                                    Confirmar Nueva Contraseña
+                                </label>
+                                <div class="password-input">
+                                    <input type="password" id="confirmPassword" name="confirmPassword">
+                                    <button type="button" class="toggle-password" data-target="confirmPassword">
+                                        <i class="fas fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Botones de Acción -->
+                    <div class="form-actions" id="formActions" style="display: none;">
+                        <button type="submit" class="btn btn-success">
+                            <i class="fas fa-save"></i>
+                            Guardar Cambios
+                        </button>
+                        <button type="button" class="btn btn-secondary" id="cancelBtn">
+                            <i class="fas fa-times"></i>
+                            Cancelar
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="Java/Perfil.js"></script>
+</body>
+</html>
